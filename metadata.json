@@ -1,17 +1,17 @@
 {
-	"name": "jewelnuruddin-abrt",
-	"version": "2.2.2",
+	"name": "tca_puppet_abrt",
+	"version": "2.2.3",
 	"author": "Jewel Mohammad Nuruddin",
 	"license": "Apache-2.0",
-	"project_page": "https://github.com/jewelnuruddin/puppet-abrt",
-	"source": "git@github.com:jewelnuruddin/puppet-abrt.git",
-	"issues_url": "https://github.com/jewelnuruddin/puppet-abrt/issues",
+	"project_page": "https://github.com/Trust-Company-of-America/tca_puppet_abrt",
+	"source": "git@github.com:Trust-Company-of-America/tca_puppet_abrt.git",
+	"issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_abrt/issues",
 	"summary": "Configuring abrt (Daemon monitoring crashes)",
 	"tags": [ "abrt"
 	],
 	"requirements": [{
 			"name": "puppet",
-			"version_requirement": ">=3.4.0 <6.0.0"
+			"version_requirement": ">=3.4.0"
 		}
 	],
 	"operatingsystem_support": [{
@@ -43,7 +43,7 @@
 	],
 	"dependencies": [{
 			"name": "puppetlabs/stdlib",
-			"version_requirement": "6.x"
+			"version_requirement": ">=6.0.0"
 		}
 	]
 }

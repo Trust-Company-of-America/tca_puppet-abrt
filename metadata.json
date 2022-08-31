@@ -1,11 +1,11 @@
 {
-	"name": "tca_puppet_abrt",
-	"version": "2.2.3",
+	"name": "tca_puppet-abrt",
+	"version": "2.2.4",
 	"author": "Jewel Mohammad Nuruddin",
 	"license": "Apache-2.0",
-	"project_page": "https://github.com/Trust-Company-of-America/tca_puppet_abrt",
+	"project_page": "https://github.com/Trust-Company-of-America/tca_puppet-abrt",
 	"source": "git@github.com:Trust-Company-of-America/tca_puppet_abrt.git",
-	"issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_abrt/issues",
+	"issues_url": "https://github.com/Trust-Company-of-America/tca_puppet-abrt/issues",
 	"summary": "Configuring abrt (Daemon monitoring crashes)",
 	"tags": [ "abrt"
 	],
